@@ -86,8 +86,13 @@ button {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
+<<<<<<< HEAD
     background-color: rgba(226, 2, 2, 0.5);
     color: #fff;
+=======
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fb0000;
+>>>>>>> c297250 (button color & seal description)
     border: none;
     padding: 10px;
     cursor: pointer;
